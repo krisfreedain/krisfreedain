@@ -1,7 +1,6 @@
 ### Hi there 👋 - I hope you are having a good day.
 
 - 🔭 I’m currently working on the [OpenSearch](https://opensearch.org/) Project
-
 - 👯 Come join our community on the [OpenSearch forum](https://forum.opensearch.org/)
 
 - :bird: Reach out on Twitter [@KrisFreedain](https://twitter.com/KrisFreedain)
