@@ -1,4 +1,13 @@
-### Hi there 👋 - I hope you are having a good day.
+### Kris Freeadin 👋 - Community Manager
+
+<a href="https://twitter.com/KrisFreedain"><img height="40" src="/images/icons8-twitter-32.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/krisfreedain"><img height="40" src="/images/icons8-linkedin-32.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/Whatapalaver"><img height="40" src="/images/icons8-github-32.png"></a>&nbsp;&nbsp;
+<a href="https://instagram/krisf"><img height="40" src="/images/icons8-instagram-32.png"></a>&nbsp;&nbsp;
+<a href="https://https://mastodon.social/@krisfreedain"><img height="40" src="/images/icons8-mastodon-32.png"></a>
+<a href="http://krisfreedain.tumblr.com/"><img height="40" src="/images/icons8-tumblr-32.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/KrisFreedain"><img height="40" src="/images/icons8-youtube-32.png"></a>&nbsp;&nbsp;
+<a href="http://my.pronoun.is/he"><img height="40" src="/images/icons8-he-32.png"></a>&nbsp;&nbsp;
 
 - 🔭 I’m currently working on the [OpenSearch](https://opensearch.org/) Project
 - 👯 Come join our community on the [OpenSearch forum](https://forum.opensearch.org/)
