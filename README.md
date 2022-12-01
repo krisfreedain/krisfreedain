@@ -1,7 +1,7 @@
 ### Kris Freedain 👋 - Community Manager
 
 <a href="https://twitter.com/KrisFreedain"><img height="40" src="/images/icons8-twitter-32.png"></a>&nbsp;&nbsp;
-<a href="https://mastodon.sdf.org/@krisfreedain" rel="me"><img height="40" src="/images/icons8-mastodon-32.png"></a>&nbsp;&nbsp;
+<a rel="me" href="https://mastodon.sdf.org/@krisfreedain"><img height="40" src="/images/icons8-mastodon-32.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/krisfreedain"><img height="40" src="/images/icons8-linkedin-32.png"></a>&nbsp;&nbsp;
 <a href="https://github.com/krisfreedain"><img height="40" src="/images/icons8-github-32.png"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/krisf"><img height="40" src="/images/icons8-instagram-32.png"></a>&nbsp;&nbsp;
