@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on the [OpenSearch](https://opensearch.org/) Project
 - 👯 Come join our community on the [OpenSearch forum](https://forum.opensearch.org/)
 - :bird: Reach out on Twitter [@KrisFreedain](https://twitter.com/KrisFreedain)
-- :link: Other social networks available on my [profile page](https://krisfreedain.github.io/)
+- :link: A little bit about me on my [profile page](https://krisfreedain.github.io/)
 - 😄 Pronouns: [he/him](http://my.pronoun.is/he)
 
 <!--
