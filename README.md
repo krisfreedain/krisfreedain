@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working on the [OpenSearch](https://opensearch.org/) Project
 - 👯 Come join our community on the [OpenSearch forum](https://forum.opensearch.org/)
-- :bird: Reach out on Twitter [@KrisFreedain](https://twitter.com/KrisFreedain)
 - :link: A little bit about me on my [profile page](https://krisfreedain.github.io/)
 - 😄 Pronouns: [he/him](http://my.pronoun.is/he)
 
@@ -25,6 +24,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- :bird: Reach out on Twitter [@KrisFreedain](https://twitter.com/KrisFreedain)
 
 - ⚡ Fun fact: ...
 -->
