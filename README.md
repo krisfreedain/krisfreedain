@@ -9,10 +9,11 @@
 <a href="https://www.youtube.com/c/KrisFreedain"><img height="40" src="/images/icons8-youtube-32.png"></a>&nbsp;&nbsp;
 <a href="http://my.pronoun.is/he"><img height="40" src="/images/icons8-he-32.png"></a>&nbsp;&nbsp;
 
-- 🔭 I’m currently working on the [OpenSearch](https://opensearch.org/) Project
-- 👯 Come join our community on the [OpenSearch forum](https://forum.opensearch.org/)
-- :link: A little bit about me on my [profile page](https://krisfreedain.github.io/)
-- 😄 Pronouns: [he/him](http://my.pronoun.is/he)
+- Community Manager for the [OpenSearch](https://opensearch.org/) Project
+- Member of the [OpenSearch Project Leadership Committee]([https://opensearch.org/](https://opensearch.org/blog/announcing-opensearch-project-leadership-committee/))
+- Come join our community on the [OpenSearch forum](https://forum.opensearch.org/)
+- A little bit about me on my [profile page](https://krisfreedain.github.io/)
+- Pronouns: [he/him](http://my.pronoun.is/he)
 
 <!--
 **krisfreedain/krisfreedain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
