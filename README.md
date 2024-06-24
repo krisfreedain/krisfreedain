@@ -13,7 +13,7 @@
 - Member of the OpenSearch Project Leadership Committee - [blog post](https://opensearch.org/blog/announcing-opensearch-project-leadership-committee/) - [repo](https://github.com/opensearch-project/community/tree/main/leadership-committee)
 - Come join our community on the [OpenSearch forum](https://forum.opensearch.org/)
 - A little bit about me on my [profile page](https://krisfreedain.github.io/)
-- Pronouns: [he/him](http://my.pronoun.is/he)
+- Pronouns: [he/him](http://pronoun.is/he)
 
 <!--
 **krisfreedain/krisfreedain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
