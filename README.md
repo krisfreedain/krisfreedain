@@ -9,7 +9,7 @@
 <a href="https://www.youtube.com/c/KrisFreedain"><img height="40" src="/images/icons8-youtube-32.png"></a>&nbsp;&nbsp;
 <a href="http://pronoun.is/he"><img height="40" src="/images/icons8-he-32.png"></a>&nbsp;&nbsp;
 
-- Community Manager for the [OpenSearch](https://opensearch.org/) Project & OpenSearch Software Foundation technical steering committee
+- Community Manager for the [OpenSearch](https://opensearch.org/) Project & [OpenSearch Software Foundation](https://foundation.opensearch.org/) [technical steering committee](https://github.com/opensearch-project/technical-steering)
 - Member of the OpenSearch Project Leadership Committee - [blog post](https://opensearch.org/blog/announcing-opensearch-project-leadership-committee/) - [repo](https://github.com/opensearch-project/community/tree/main/leadership-committee)
 - Come join our community on the [OpenSearch forum](https://forum.opensearch.org/)
 - A little bit about me on my [profile page](https://krisfreedain.github.io/)
