@@ -1,4 +1,4 @@
-### Kris Freedain - Community Manager
+## Kris Freedain - Community Manager
 
 <a rel="me" href="https://fosstodon.org/@krisfreedain"><img height="40" src="/images/icons8-mastodon-32.png"></a>&nbsp;&nbsp;
 <a rel="me" href="https://bsky.app/profile/krisfreedain.com"><img height="40" src="/images/icons8-butterfly-50.png"></a>&nbsp;&nbsp;
@@ -15,6 +15,14 @@
 - Come join our community on the [OpenSearch forum](https://forum.opensearch.org/)
 - A little bit about me on my [profile page](https://krisfreedain.github.io/)
 - Pronouns: [he/him](http://pronoun.is/he)
+
+### Upcoming events
+- [State of Open Con 2025](https://stateofopencon.com/) - London, Feb 4 & 5 2025
+- [FOSS Backstage](https://25.foss-backstage.de/) - Berlin, Mar 10 & 11 2025
+- [KubeCon / CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - London, April 1-4 2025
+- [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/) - Amsterdam, Apr 30 - May 1 2025
+
+_Come say hello if you're at one of them!_
 
 <!--
 **krisfreedain/krisfreedain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
