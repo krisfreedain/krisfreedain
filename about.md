@@ -1,0 +1,3 @@
+Kris Freedain is a Community Manager and Leadership Committee member for the OpenSearch Project, based in the Pacific Northwest. He is a dedicated family man, husband, and father, who practices Buddhism and meditation daily. Kris enjoys gardening, powerlifting, and exploring nature with his family. 
+
+He has experience in community engagement, digital marketing, support, and release management throughout his career, contributing to various initiatives and events within the tech community. He has decades of experience in tech, but finds connecting people to be the most fulfilling part of being a community professional.
