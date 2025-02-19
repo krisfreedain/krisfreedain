@@ -16,9 +16,9 @@
 - A little bit about me on my [profile page](https://krisfreedain.github.io/)
 - Pronouns: [he/him](http://pronoun.is/he)
 
-### Upcoming events
+### Upcoming events 
 - [State of Open Con 2025](https://stateofopencon.com/) - London, Feb 4 & 5 2025
-- [FOSS Backstage](https://25.foss-backstage.de/) - Berlin, Mar 10 & 11 2025
+- **[FOSS Backstage](https://25.foss-backstage.de/) - Berlin, Mar 10 & 11 2025**
 - [KubeCon / CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - London, April 1-4 2025
 - [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/) - Amsterdam, Apr 30 - May 1 2025
 
