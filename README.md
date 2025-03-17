@@ -18,8 +18,9 @@
 
 ### Upcoming events 
 - [State of Open Con 2025](https://stateofopencon.com/) - London, Feb 4 & 5 2025
-- **[FOSS Backstage](https://25.foss-backstage.de/) - Berlin, Mar 10 & 11 2025**
-- **[OpenSearch Project - Berlin User Group](https://www.meetup.com/opensearch-project-berlin/events/305608182) - Berlin, Mar 13 2025**
+- [FOSS Backstage](https://25.foss-backstage.de/) - Berlin, Mar 10 & 11 2025
+- [OpenSearch Project - Berlin User Group](https://www.meetup.com/opensearch-project-berlin/events/305608182) - Berlin, Mar 13 2025
+- **[The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa, California, Mar 18-20 2025**
 - [KubeCon / CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - London, April 1-4 2025
 - [OpenSearch Project - London User Group](https://www.meetup.com/opensearch-project-london/events/305923918) - London, Apr 3 2025
 - [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/) - Amsterdam, Apr 30 - May 1 2025
