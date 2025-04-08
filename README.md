@@ -15,6 +15,8 @@
 - Come join our community on the [OpenSearch forum](https://forum.opensearch.org/)
 - Reach out [to me](https://opensearch.slack.com/team/U04JP3AR3A6) on the [OpenSearch Slack](https://opensearch.org/slack.html) instance
 - Pronouns: [he/him](http://pronoun.is/he)
+- My homepage [krisfreedain.com](https://krisfreedain.com/)
+- Personal blog [kris.haus](https://kris.haus/)
 
 ### Upcoming events 
 - [State of Open Con 2025](https://stateofopencon.com/) - London, Feb 4 & 5 2025
