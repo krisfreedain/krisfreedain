@@ -25,6 +25,7 @@
 - [OpenSearch Project - London User Group](https://www.meetup.com/opensearch-project-london/events/305923918) - London, Apr 3 2025
 - **[OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/) - Amsterdam, Apr 30 - May 1 2025**
 - **[OpenSearch Project - München User Group](https://www.meetup.com/opensearch-project-munchen/events/306551658) - München, May 7 2025**
+- TBD
 
 _Come say hello if you're at one of them!_
 
