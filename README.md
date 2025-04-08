@@ -14,7 +14,6 @@
 - Member of the OpenSearch Project Leadership Committee - [blog post](https://opensearch.org/blog/announcing-opensearch-project-leadership-committee/) - [repo](https://github.com/opensearch-project/community/tree/main/leadership-committee) (Dec 2023 - Sep 2024)
 - Come join our community on the [OpenSearch forum](https://forum.opensearch.org/)
 - Reach out [to me](https://opensearch.slack.com/team/U04JP3AR3A6) on the [OpenSearch Slack](https://opensearch.org/slack.html) instance
-- A little bit about me on my [profile page](https://krisfreedain.github.io/)
 - Pronouns: [he/him](http://pronoun.is/he)
 
 ### Upcoming events 
@@ -32,6 +31,8 @@ _Come say hello if you're at one of them!_
 
 <!--
 **krisfreedain/krisfreedain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- A little bit about me on my [profile page](https://krisfreedain.github.io/)
 
 Here are some ideas to get you started:
 
