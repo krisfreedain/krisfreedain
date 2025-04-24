@@ -15,10 +15,10 @@
 - Come join our community on the [OpenSearch forum](https://forum.opensearch.org/)
 - Reach out [to me](https://opensearch.slack.com/team/U04JP3AR3A6) on the [OpenSearch Slack](https://opensearch.org/slack.html) instance
 - Pronouns: [he/him](http://pronoun.is/he)
-- My homepage [krisfreedain.com](https://krisfreedain.com/)
+- Homepage [krisfreedain.com](https://krisfreedain.com/)
 - Personal blog [kris.haus](https://kris.haus/)
 
-### Upcoming events 
+### Upcoming events (2025)
 - [State of Open Con 2025](https://stateofopencon.com/) - London, Feb 4 & 5 2025
 - [FOSS Backstage](https://25.foss-backstage.de/) - Berlin, Mar 10 & 11 2025
 - [OpenSearch Project - Berlin User Group](https://www.meetup.com/opensearch-project-berlin/events/305608182) - Berlin, Mar 13 2025
