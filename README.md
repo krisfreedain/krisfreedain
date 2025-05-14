@@ -27,10 +27,10 @@
 - [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa, California, Mar 18-20 2025
 - [KubeCon / CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - London, April 1-4 2025
 - [OpenSearch Project - London User Group](https://www.meetup.com/opensearch-project-london/events/305923918) - London, Apr 3 2025
-- **[OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/) - Amsterdam, Apr 30 - May 1 2025**
+- [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/) - Amsterdam, Apr 30 - May 1 2025
   - [Unconference](https://events.linuxfoundation.org/opensearchcon-europe/program/unconference/)
-  - [The State of OpenSearch User Groups: Building a Global Community](https://sched.co/1uxtJ) [Watch the recording](https://youtu.be/Y_SLYIuAxks?si=OTGKvjFvt3Vz0aED)
-- **[OpenSearch Project - München User Group](https://www.meetup.com/opensearch-project-munchen/events/306551658) - München, May 7 2025**
+  - [The State of OpenSearch User Groups: Building a Global Community](https://sched.co/1uxtJ) - [Watch the recording](https://youtu.be/Y_SLYIuAxks?si=OTGKvjFvt3Vz0aED)
+- [OpenSearch Project - München User Group](https://www.meetup.com/opensearch-project-munchen/events/306551658) - München, May 7 2025
   - Ways to Contribute to OpenSearch
 - TBD
 
