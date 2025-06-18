@@ -17,6 +17,7 @@
 - Pronouns: [he/him](http://pronoun.is/he)
 - Homepage [krisfreedain.com](https://krisfreedain.com/)
 - Personal blog [kris.haus](https://kris.haus/)
+- Fosstodon.org Admin [the team](https://hub.fosstodon.org/team/) [announcement](https://hub.fosstodon.org/brandon-and-kris-join-new-admins)
 
 ### Upcoming events (2025)
 - [State of Open Con 2025](https://stateofopencon.com/) - London, Feb 4 & 5 2025
