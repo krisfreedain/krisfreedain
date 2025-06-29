@@ -33,9 +33,9 @@
   - [The State of OpenSearch User Groups: Building a Global Community](https://sched.co/1uxtJ) - [Watch the recording](https://youtu.be/Y_SLYIuAxks?si=OTGKvjFvt3Vz0aED)
 - [OpenSearch Project - München User Group](https://www.meetup.com/opensearch-project-munchen/events/306551658) - München, May 7 2025
   - Ways to Contribute to OpenSearch
-- **[Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Denver, Colorado, June 23 - 25**
-- [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin, July 9 - 11 2025
-  - Joining OpenSearch Software Foundation members Elitra in their booth
+- [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Denver, Colorado, June 23 - 25
+- **[WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin, July 9 - 11 2025**
+  - Joining OpenSearch Software Foundation members [Eliatra](https://eliatra.com/) in their booth
 - [FOSSY](https://2025.fossy.us/) - Portland, Oregon, July 31 - Aug 3
   - running the 'Supporting User Groups' community track
 - TBD
