@@ -21,24 +21,27 @@
 - Fosstodon Foundation Board Member - [announcement](https://hub.fosstodon.org/introducing-the-fosstodon-foundation)
 
 ### Upcoming events (2025)
-- [State of Open Con 2025](https://stateofopencon.com/) - London, Feb 4 & 5 2025
-- [FOSS Backstage](https://25.foss-backstage.de/) - Berlin, Mar 10 & 11 2025
-- [OpenSearch Project - Berlin User Group](https://www.meetup.com/opensearch-project-berlin/events/305608182) - Berlin, Mar 13 2025
+- [State of Open Con 2025](https://stateofopencon.com/) - London, Feb 4 & 5
+- [FOSS Backstage](https://25.foss-backstage.de/) - Berlin, Mar 10 & 11
+- [OpenSearch Project - Berlin User Group](https://www.meetup.com/opensearch-project-berlin/events/305608182) - Berlin, Mar 13
   - Launch!
   - Ways to Contribute to OpenSearch
-- [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa, California, Mar 18 - 20 2025
-- [KubeCon / CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - London, April 1 - 4 2025
-- [OpenSearch Project - London User Group](https://www.meetup.com/opensearch-project-london/events/305923918) - London, Apr 3 2025
-- [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/) - Amsterdam, Apr 30 - May 1 2025
+- [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa, California, Mar 18 - 20
+- [KubeCon / CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - London, April 1 - 4
+- [OpenSearch Project - London User Group](https://www.meetup.com/opensearch-project-london/events/305923918) - London, Apr 3
+- [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/) - Amsterdam, Apr 30 - May 1
   - [Unconference](https://events.linuxfoundation.org/opensearchcon-europe/program/unconference/)
   - [The State of OpenSearch User Groups: Building a Global Community](https://sched.co/1uxtJ) - [Watch the recording](https://youtu.be/Y_SLYIuAxks?si=OTGKvjFvt3Vz0aED)
-- [OpenSearch Project - München User Group](https://www.meetup.com/opensearch-project-munchen/events/306551658) - München, May 7 2025
+- [OpenSearch Project - München User Group](https://www.meetup.com/opensearch-project-munchen/events/306551658) - München, May 7
   - Ways to Contribute to OpenSearch
 - [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Denver, Colorado, June 23 - 25
-- **[WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin, July 9 - 11 2025**
+- **[WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin, July 9 - 11**
   - Joining OpenSearch Software Foundation members [Eliatra](https://eliatra.com/) in their booth
 - [FOSSY](https://2025.fossy.us/) - Portland, Oregon, July 31 - Aug 3
-  - running the 'Supporting User Groups' community track
+  - running the '[Supporting User Groups](https://2025.fossy.us/schedule/#friday)' community track
+- [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Amsterdam, Aug 25 - 27
+- [AI_Dev](https://events.linuxfoundation.org/ai-dev-europe/) - Amsterdam, Aug 28 - 29
+- [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose, CA, Sept 8 - 10
 - TBD
 
 _Come say hello if you're at one of them!_
