@@ -2,12 +2,12 @@
 
 <a rel="me" href="https://fosstodon.org/@krisfreedain"><img height="40" src="/images/icons8-mastodon-32.png"></a>&nbsp;&nbsp;
 <a rel="me" href="https://bsky.app/profile/krisfreedain.com"><img height="40" src="/images/icons8-bluesky-32.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/KrisFreedain"><img height="40" src="/images/icons8-twitter-32.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/krisfreedain"><img height="40" src="/images/icons8-linkedin-32.png"></a>&nbsp;&nbsp;
 <a href="https://github.com/krisfreedain"><img height="40" src="/images/icons8-github-32.png"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/krisf"><img height="40" src="/images/icons8-instagram-32.png"></a>&nbsp;&nbsp;
 <a href="http://krisfreedain.tumblr.com/"><img height="40" src="/images/icons8-tumblr-32.png"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/c/KrisFreedain"><img height="40" src="/images/icons8-youtube-32.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/KrisFreedain"><img height="40" src="/images/icons8-twitter-32.png"></a>&nbsp;&nbsp;
 <a href="http://pronoun.is/he"><img height="40" src="/images/icons8-he-32.png"></a>&nbsp;&nbsp;
 
 - Community Manager for the [OpenSearch](https://opensearch.org/) Project & [OpenSearch Software Foundation](https://foundation.opensearch.org/) [technical steering committee](https://github.com/opensearch-project/technical-steering)
