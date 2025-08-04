@@ -37,10 +37,10 @@
 - [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Denver, Colorado, June 23 - 25
 - [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin, July 9 - 11
   - Joining OpenSearch Software Foundation members [Eliatra](https://eliatra.com/) in their booth
-- **[FOSSY](https://2025.fossy.us/) - Portland, Oregon, July 31 - Aug 3**
+- [FOSSY](https://2025.fossy.us/) - Portland, Oregon, July 31 - Aug 3
   - running the '[Supporting User Groups](https://2025.fossy.us/schedule/#friday)' community track
-- [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Amsterdam, Aug 25 - 27
-- [AI_Dev](https://events.linuxfoundation.org/ai-dev-europe/) - Amsterdam, Aug 28 - 29
+- **[Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)** - Amsterdam, Aug 25 - 27
+- **[AI_Dev](https://events.linuxfoundation.org/ai-dev-europe/)** - Amsterdam, Aug 28 - 29
 - [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose, CA, Sept 8 - 10
 - TBD
 
