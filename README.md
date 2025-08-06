@@ -19,6 +19,7 @@
 - Personal blog [kris.haus](https://kris.haus/)
 - Fosstodon.org Admin - [the team](https://hub.fosstodon.org/team/) - [announcement](https://hub.fosstodon.org/brandon-and-kris-join-new-admins) - [blog post](https://krisfreedain.com/fosstodon-admin-team/)
 - Fosstodon Foundation Board Member - [announcement](https://hub.fosstodon.org/introducing-the-fosstodon-foundation)
+- Speaker [bio](https://github.com/krisfreedain/krisfreedain/blob/main/about.md) and profile [image](https://github.com/krisfreedain/krisfreedain/blob/main/images/krisfreedain-profile.jpg).
 
 ### Upcoming events (2025)
 - [State of Open Con 2025](https://stateofopencon.com/) - London, Feb 4 & 5
