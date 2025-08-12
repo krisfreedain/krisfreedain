@@ -41,6 +41,8 @@
 - [FOSSY](https://2025.fossy.us/) - Portland, Oregon, July 31 - Aug 3
   - running the '[Supporting User Groups](https://2025.fossy.us/schedule/#friday)' community track
 - **[Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)** - Amsterdam, Aug 25 - 27
+- **[OpenSearch Project - Amsterdam User Group](https://www.meetup.com/opensearch-project-amsterdam/events/310472171/)** - Amsterdam, Aug 27
+  - Community and Contribution
 - **[AI_Dev](https://events.linuxfoundation.org/ai-dev-europe/)** - Amsterdam, Aug 28 - 29
 - [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose, CA, Sept 8 - 10
 - TBD
