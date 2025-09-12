@@ -44,7 +44,8 @@
 - [OpenSearch Project - Amsterdam User Group](https://www.meetup.com/opensearch-project-amsterdam/events/310472171/) - Amsterdam, Aug 27
   - Community and Contribution
 - [AI_Dev](https://events.linuxfoundation.org/ai-dev-europe/) - Amsterdam, Aug 28 - 29
-- **[OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/)** - San Jose, CA, Sept 8 - 10
+- [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose, CA, Sept 8 - 10
+  - [Unconference](https://events.linuxfoundation.org/opensearchcon-north-america/program/unconference/)
 - TBD
 
 _Come say hello if you're at one of them!_
