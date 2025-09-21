@@ -46,6 +46,9 @@
 - [AI_Dev](https://events.linuxfoundation.org/ai-dev-europe/) - Amsterdam, Aug 28 - 29
 - [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose, CA, Sept 8 - 10
   - [Unconference](https://events.linuxfoundation.org/opensearchcon-north-america/program/unconference/)
+- **[Red Hat Summit: Connect 2025 Roma](https://www.redhat.com/en/summit/connect/emea/rome-2025)** - Rome, Italy, Nov 12
+- OpenSearch Project User Group - Milan, Italy - TBA
+- OpenSearch Project User Group - Vienna, Austria - TBA
 - TBD
 
 _Come say hello if you're at one of them!_
