@@ -11,6 +11,7 @@
 <a href="https://en.pronouns.page/he"><img height="40" src="/images/icons8-he-32.png"></a>&nbsp;&nbsp;
 
 - Community Manager for the [OpenSearch](https://opensearch.org/) Project & [OpenSearch Software Foundation](https://foundation.opensearch.org/) [technical steering committee](https://github.com/opensearch-project/technical-steering)
+- OpenSearch Software Foundation Ambassador - [page](https://opensearch.org/ambassadors/) - [announcement](https://opensearch.org/blog/introducing-opensearch-ambassador-program/)
 - Member of the OpenSearch Project Leadership Committee - [blog post](https://opensearch.org/blog/announcing-opensearch-project-leadership-committee/) - [repo](https://github.com/opensearch-project/community/tree/main/leadership-committee) (Dec 2023 - Sep 2024)
 - Come join the [OpenSearch community](https://opensearch.org/community/)
 - Reach out [to me](https://opensearch.slack.com/team/U04JP3AR3A6) on the [OpenSearch Slack](https://opensearch.org/slack.html) instance
