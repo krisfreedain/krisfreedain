@@ -49,8 +49,11 @@
   - [Unconference](https://events.linuxfoundation.org/opensearchcon-north-america/program/unconference/)
 - **[Red Hat Summit: Connect 2025 Roma](https://www.redhat.com/en/summit/connect/emea/rome-2025)** - Rome, Italy, Nov 12
 - OpenSearch Project - Milan User Group - Milan, Italy, Nov 13
+  - Community and Contribution
 - OpenSearch Project - Vienna User Group - Vienna, Austria, Nov 18
+  - Community and Contribution 
 - OpenSearch Project - Lisbon User Group - Lisbon, Portugal, Nov 20
+  - Community and Contribution
 - [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan) - Tokyo, Japan, Dec 8 - 10
 - [OpenSearchCon Japan](https://events.linuxfoundation.org/opensearchcon-japan/) - Tokyo, Japan, Dec 11
 - lots of rest 
