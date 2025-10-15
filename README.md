@@ -51,8 +51,10 @@
 - OpenSearch Project - Milan User Group - Milan, Italy, Nov 13
   - Community and Contribution
 - [OpenSearch Project - Vienna User Group](https://www.meetup.com/opensearch-project-vienna/events/311549096/) - Vienna, Austria, Nov 18
+  - Launch!
   - Community and Contribution 
 - [OpenSearch Project - Lisbon User Group](https://www.meetup.com/search-and-ai-lisbon/events/311535326) - Lisbon, Portugal, Nov 20
+  - Launch!
   - Community and Contribution
 - [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan) - Tokyo, Japan, Dec 8 - 10
 - [OpenSearchCon Japan](https://events.linuxfoundation.org/opensearchcon-japan/) - Tokyo, Japan, Dec 11
