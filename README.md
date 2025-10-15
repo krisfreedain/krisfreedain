@@ -50,7 +50,7 @@
 - **[Red Hat Summit: Connect 2025 Roma](https://www.redhat.com/en/summit/connect/emea/rome-2025)** - Rome, Italy, Nov 12
 - OpenSearch Project - Milan User Group - Milan, Italy, Nov 13
   - Community and Contribution
-- OpenSearch Project - Vienna User Group - Vienna, Austria, Nov 18
+- [OpenSearch Project - Vienna User Group](https://www.meetup.com/opensearch-project-vienna/events/311549096/) - Vienna, Austria, Nov 18
   - Community and Contribution 
 - [OpenSearch Project - Lisbon User Group](https://www.meetup.com/search-and-ai-lisbon/events/311535326) - Lisbon, Portugal, Nov 20
   - Community and Contribution
