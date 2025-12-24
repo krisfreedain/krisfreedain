@@ -56,9 +56,9 @@
 - [OpenSearch Project - Lisbon User Group](https://www.meetup.com/search-and-ai-lisbon/events/311535326) - Lisbon, Portugal, Nov 20
   - Launch!
   - Community and Contribution
-- **[Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan)** - Tokyo, Japan, Dec 8 - 10
-- **[OpenSearchCon Japan](https://events.linuxfoundation.org/opensearchcon-japan/)** - Tokyo, Japan, Dec 11
-- lots of rest 
+- [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan) - Tokyo, Japan, Dec 8 - 10
+- [OpenSearchCon Japan](https://events.linuxfoundation.org/opensearchcon-japan/) - Tokyo, Japan, Dec 11
+- **lots of rest** Will be planing out 2026 soon. 
 
 _Come say hello if you're at one of them!_
 
