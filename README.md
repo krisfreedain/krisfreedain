@@ -58,6 +58,7 @@
   - Community and Contribution
 - [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan) - Tokyo, Japan, Dec 8 - 10
 - [OpenSearchCon Japan](https://events.linuxfoundation.org/opensearchcon-japan/) - Tokyo, Japan, Dec 11
+  - Closing Keynote
 - **lots of rest** Will be planing out 2026 soon. 
 
 _Come say hello if you're at one of them!_
