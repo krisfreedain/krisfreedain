@@ -1,6 +1,6 @@
 Bio (long): 
 
-Kris Freedain (he/him) is the Community Manager for the OpenSearch Project & OpenSearch Software Foundation technical steering committee. Based in the Pacific Northwest, he is a dedicated family man, husband, and father, who practices Buddhism and meditation daily. Kris enjoys gardening, powerlifting, and exploring nature with his family. 
+Kris Freedain (he/him) is the Community Manager for the OpenSearch Project, OpenSearch Software Foundation, and technical steering committee. He is also an OpenSearch Ambassador. Based in the Pacific Northwest, he is a dedicated family man, husband, and father, who practices Buddhism and meditation daily. Kris enjoys gardening, powerlifting, and exploring nature with his family. 
 
 He has experience in community engagement, digital marketing, support, and release management throughout his career, contributing to various initiatives and events within the tech community. He has decades of experience in tech, but finds connecting people to be the most fulfilling part of being a community professional.
 
@@ -9,4 +9,4 @@ Kris is also a Fediverse admin for the Fosstodon instance and serves as a Fossto
 
 Bio (short):
 
-Kris Freedain (he/him) is the Community Manager for the OpenSearch Project & OpenSearch Software Foundation technical steering committee. He has decades of experience in tech, but finds connecting people to be the most fulfilling part of being a community professional. Kris is also a Fediverse admin for the Fosstodon instance and serves as a Fosstodon Foundation Board Member.
+Kris Freedain (he/him) is the Community Manager for the OpenSearch Project, OpenSearch Software Foundation, and technical steering committee. He is also an OpenSearch Ambassador. He has decades of experience in tech, but finds connecting people to be the most fulfilling part of being a community professional. Kris is also a Fediverse admin for the Fosstodon instance and serves as a Fosstodon Foundation Board Member.
