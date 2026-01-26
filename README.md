@@ -27,7 +27,7 @@
   - [Guided Discussion / BoF: Building a Global Open-Source User Group Program](https://chaoss.community/chaosscon-2026-eu/agenda/)
 - [FOSDEM](https://fosdem.org/2026/) - Brussels - January 31 & February 1
 - [Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa, CA - February 24 & 25
-  - [OpenSearch Software Foundation: 1 Year of Open Governance - Kris Freedain, OpenSearch Project (at AWS) & Amanda Katona, NetApp Instaclustr](https://lfms26.sched.com/event/2ETSw/opensearch-software-foundation-1-year-of-open-governance-kris-freedain-opensearch-project-at-aws-amanda-katona-netapp-instaclustr?iframe=yes&w=100%&sidebar=yes&bg=no)
+  - [OpenSearch Software Foundation: 1 Year of Open Governance](https://lfms26.sched.com/event/2ETSw/opensearch-software-foundation-1-year-of-open-governance-kris-freedain-opensearch-project-at-aws-amanda-katona-netapp-instaclustr?iframe=yes&w=100%&sidebar=yes&bg=no)
 - [Scale 23x](https://www.socallinuxexpo.org/scale/23x) - Pasadena, CA - March 5-8
 - [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/) - Shanghai - March 17 & 18
 - [MCP Dev Summit](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - New York - April 2 & 3
