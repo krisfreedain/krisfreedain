@@ -22,46 +22,22 @@
 - Fosstodon Foundation Board Member - [announcement](https://hub.fosstodon.org/introducing-the-fosstodon-foundation)
 - Speaker [bio](https://github.com/krisfreedain/krisfreedain/blob/main/about.md) and profile [image](https://github.com/krisfreedain/krisfreedain/blob/main/images/krisfreedain-profile.jpg).
 
-### Upcoming events (2025)
-- [State of Open Con 2025](https://stateofopencon.com/) - London, Feb 4 & 5
-- [FOSS Backstage](https://25.foss-backstage.de/) - Berlin, Mar 10 & 11
-- [OpenSearch Project - Berlin User Group](https://www.meetup.com/opensearch-project-berlin/events/305608182) - Berlin, Mar 13
-  - Launch!
-  - Ways to Contribute to OpenSearch
-- [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa, California, Mar 18 - 20
-- [KubeCon / CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - London, April 1 - 4
-- [OpenSearch Project - London User Group](https://www.meetup.com/opensearch-project-london/events/305923918) - London, Apr 3
-- [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe/) - Amsterdam, Apr 30 - May 1
-  - [Unconference](https://events.linuxfoundation.org/opensearchcon-europe/program/unconference/)
-  - [The State of OpenSearch User Groups: Building a Global Community](https://sched.co/1uxtJ) - [Watch the recording](https://youtu.be/Y_SLYIuAxks?si=OTGKvjFvt3Vz0aED)
-- [OpenSearch Project - München User Group](https://www.meetup.com/opensearch-project-munchen/events/306551658) - München, May 7
-  - Ways to Contribute to OpenSearch
-- [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Denver, Colorado, June 23 - 25
-- [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin, July 9 - 11
-  - Joining OpenSearch Software Foundation members [Eliatra](https://eliatra.com/) in their booth
-- [FOSSY](https://2025.fossy.us/) - Portland, Oregon, July 31 - Aug 3
-  - running the '[Supporting User Groups](https://2025.fossy.us/schedule/#friday)' community track
-- [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Amsterdam, Aug 25 - 27
-- [OpenSearch Project - Amsterdam User Group](https://www.meetup.com/opensearch-project-amsterdam/events/310472171/) - Amsterdam, Aug 27
-  - Community and Contribution
-- [AI_Dev](https://events.linuxfoundation.org/ai-dev-europe/) - Amsterdam, Aug 28 - 29
-- [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose, CA, Sept 8 - 10
-  - [Unconference](https://events.linuxfoundation.org/opensearchcon-north-america/program/unconference/)
-- [Red Hat Summit: Connect 2025 Roma](https://www.redhat.com/en/summit/connect/emea/rome-2025) - Rome, Italy, Nov 12
-- [OpenSearch Project - Milan User Group](https://www.meetup.com/opensearch-project-milan/events/311566107) - Milan, Italy, Nov 13
-  - Community and Contribution
-- [OpenSearch Project - Vienna User Group](https://www.meetup.com/opensearch-project-vienna/events/311549096/) - Vienna, Austria, Nov 18
-  - Launch!
-  - Community and Contribution 
-- [OpenSearch Project - Lisbon User Group](https://www.meetup.com/search-and-ai-lisbon/events/311535326) - Lisbon, Portugal, Nov 20
-  - Launch!
-  - Community and Contribution
-- [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan) - Tokyo, Japan, Dec 8 - 10
-- [OpenSearchCon Japan](https://events.linuxfoundation.org/opensearchcon-japan/) - Tokyo, Japan, Dec 11
-  - Closing Keynote
-- **lots of rest** Will be planing out 2026 soon. 
+### Events I'll be at (2026)
+- [CHAOSScon Europe 2026](https://chaoss.community/chaosscon-2026-eu) - Brussels - January 29
+  - [Guided Discussion / BoF: Building a Global Open-Source User Group Program](https://chaoss.community/chaosscon-2026-eu/agenda/)
+- [FOSDEM](https://fosdem.org/2026/) - Brussels - January 31 & February 1
+- [Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa, CA - February 24 & 25
+  - [OpenSearch Software Foundation: 1 Year of Open Governance - Kris Freedain, OpenSearch Project (at AWS) & Amanda Katona, NetApp Instaclustr](https://lfms26.sched.com/event/2ETSw/opensearch-software-foundation-1-year-of-open-governance-kris-freedain-opensearch-project-at-aws-amanda-katona-netapp-instaclustr?iframe=yes&w=100%&sidebar=yes&bg=no)
+- [Scale 23x](https://www.socallinuxexpo.org/scale/23x) - Pasadena, CA - March 5-8
+- [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/) - Shanghai - March 17 & 18
+- [MCP Dev Summit](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - New York - April 2 & 3
+- [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe) - Prague, Czechia - April 16 & 17
+- TBD
 
 _Come say hello if you're at one of them!_
+
+### Events I was at (2025)
+- [Archive on my travel page](https://krisfreedain.com/travel/)
 
 <!--
 **krisfreedain/krisfreedain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
