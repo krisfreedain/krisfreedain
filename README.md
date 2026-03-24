@@ -29,9 +29,9 @@
 - [Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa, CA - February 24 & 25
   - [OpenSearch Software Foundation: 1 Year of Open Governance](https://lfms26.sched.com/event/2ETSw/opensearch-software-foundation-1-year-of-open-governance-kris-freedain-opensearch-project-at-aws-amanda-katona-netapp-instaclustr?iframe=yes&w=100%&sidebar=yes&bg=no)
 - [Scale 23x](https://www.socallinuxexpo.org/scale/23x) - Pasadena, CA - March 5-8**
-- **[OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/)** - Shanghai, China - March 17 & 18
-  - **[Closing Keynote](https://opensearchcon-china-2026.sessionize.com/session/1139831)**
-- [MCP Dev Summit](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - New York, New York - April 2 & 3
+- [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/) - Shanghai, China - March 17 & 18
+  - [Closing Keynote](https://opensearchcon-china-2026.sessionize.com/session/1139831)
+- **[MCP Dev Summit](https://events.linuxfoundation.org/mcp-dev-summit-north-america/)** - New York, New York - April 2 & 3
 - [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe) - Prague, Czechia - April 16 & 17
   - Running the [Unconference](https://opensearchconeu2026.sched.com/event/2Gj0F/unconference?iframe=yes&w=100%&sidebar=yes&bg=no) again! Hope you will join us.
 - TBD
