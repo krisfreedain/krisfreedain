@@ -31,8 +31,8 @@
 - [Scale 23x](https://www.socallinuxexpo.org/scale/23x) - Pasadena, CA - March 5-8
 - [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/) - Shanghai, China - March 17 & 18
   - [Closing Keynote](https://opensearchcon-china-2026.sessionize.com/session/1139831)
-- **[MCP Dev Summit](https://events.linuxfoundation.org/mcp-dev-summit-north-america/)** - New York, New York - April 2 & 3
-- [OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe) - Prague, Czechia - April 16 & 17
+- [MCP Dev Summit](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - New York, New York - April 2 & 3
+- **[OpenSearchCon Europe](https://events.linuxfoundation.org/opensearchcon-europe)** - Prague, Czechia - April 16 & 17
   - Running the [Unconference](https://opensearchconeu2026.sched.com/event/2Gj0F/unconference?iframe=yes&w=100%&sidebar=yes&bg=no) again! Hope you will join us.
 - [DEVOXX France 2026](https://www.devoxx.fr/en/) - Paris, France - April 22-24
   - [Meet the OpenSearch Project Community - Rencontre de la communauté OpenSearch](https://m.devoxx.com/events/devoxxfr2026/talks/152201/meet-the-opensearch-project-community---rencontre-de-la-communaut%C3%A9-opensearch)
