@@ -40,7 +40,7 @@
   - [Meet the OpenSearch Project Community - Rencontre de la communauté OpenSearch](https://m.devoxx.com/events/devoxxfr2026/talks/152201/meet-the-opensearch-project-community---rencontre-de-la-communaut%C3%A9-opensearch)
 - **[Berlin Buzzwords](https://2026.berlinbuzzwords.de/)** - Berlin, Germany - June 7-9
   - [OpenSearch Software Foundation: 1 Year of Open Governance](https://2026.berlinbuzzwords.de/session/opensearch-software-foundation-1-year-of-open-governance/)
-  - Runing the OpenSearch Project sponsor booth
+  - Running the OpenSearch Project sponsor booth
 - [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/) - Mumbai, India - June 15-16
 - [DevConf.CZ](https://www.devconf.info/cz/) - Brno, Czech Republic - June 18-19
   - Beyond Pull Requests: How Non-Code Contributions Scale Open Source Projects
