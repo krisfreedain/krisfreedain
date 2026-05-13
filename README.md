@@ -43,7 +43,7 @@
   - Running the OpenSearch Project sponsor booth
 - [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/) - Mumbai, India - June 15-16
 - [DevConf.CZ](https://www.devconf.info/cz/) - Brno, Czech Republic - June 18-19
-  - Beyond Pull Requests: How Non-Code Contributions Scale Open Source Projects
+  - [Beyond Pull Requests: How Non-Code Contributions Scale Open Source Projects](https://www.devconf.info/cz/schedule/#session/J97B77/)
 - [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress) - Berlin, Germany - July 8-10
 - [Community Over Code](https://communityovercode.org/) - Glasgow, Scotland - October 11-15
   - Beyond Pull Requests How Non-Coders Quietly Power Open Source
