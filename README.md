@@ -1,4 +1,4 @@
-## Kris Freedain - Community Manager
+## Kris Freedain - Senior Community Manager
 
 <a rel="me" href="https://fosstodon.org/@krisfreedain"><img height="40" src="/images/icons8-mastodon-32.png"></a>&nbsp;&nbsp;
 <a rel="me" href="https://bsky.app/profile/krisfreedain.com"><img height="40" src="/images/icons8-bluesky-32.png"></a>&nbsp;&nbsp;
