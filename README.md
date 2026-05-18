@@ -41,6 +41,8 @@
 - **[Berlin Buzzwords](https://2026.berlinbuzzwords.de/)** - Berlin, Germany - June 7-9
   - [OpenSearch Software Foundation: 1 Year of Open Governance](https://2026.berlinbuzzwords.de/session/opensearch-software-foundation-1-year-of-open-governance/)
   - Running the OpenSearch Project sponsor booth
+- [Retrieve. Remember. Reason - with Women of Search](Retrieve. Remember. Reason - with Women of Search) - Berlin, Germany - June 9
+  - Assist with organizing, promotion of this important event
 - [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/) - Mumbai, India - June 15-16
 - [DevConf.CZ](https://www.devconf.info/cz/) - Brno, Czech Republic - June 18-19
   - [Beyond Pull Requests: How Non-Code Contributions Scale Open Source Projects](https://www.devconf.info/cz/schedule/#session/J97B77/)
