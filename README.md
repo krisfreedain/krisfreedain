@@ -25,7 +25,7 @@
 
 ### Events I'll be at (2026)
 - [CHAOSScon Europe 2026](https://chaoss.community/chaosscon-2026-eu) - Brussels, Belgium - January 29
-  - [Guided Discussion / BoF: Building a Global Open-Source User Group Program](https://chaoss.community/chaosscon-2026-eu/agenda/)
+  - [Guided Discussion / BoF: Building a Global Open-Source User Group Program](https://teamup.com/event/show/id/QWu1vaEsquRZcftUW7WZHgTXWpmwq9) [Agenda](https://chaoss.community/chaosscon-2026-eu/agenda/)
 - [FOSDEM](https://fosdem.org/2026/) - Brussels, Belgium - January 31 & February 1
 - [Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa, CA - February 24 & 25
   - [OpenSearch Software Foundation: 1 Year of Open Governance](https://lfms26.sched.com/event/2ETSw/opensearch-software-foundation-1-year-of-open-governance-kris-freedain-opensearch-project-at-aws-amanda-katona-netapp-instaclustr?iframe=yes&w=100%&sidebar=yes&bg=no)
