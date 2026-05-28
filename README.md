@@ -23,7 +23,7 @@
 - Fosstodon Foundation Board Member - [announcement](https://hub.fosstodon.org/introducing-the-fosstodon-foundation)
 - Speaker [bio](https://github.com/krisfreedain/krisfreedain/blob/main/about.md) and profile [image](https://github.com/krisfreedain/krisfreedain/blob/main/images/krisfreedain-profile.jpg).
 
-### Events I'll be at (2026)
+### Events (2026)
 - [CHAOSScon Europe 2026](https://chaoss.community/chaosscon-2026-eu) - Brussels, Belgium - January 29
   - [Guided Discussion / BoF: Building a Global Open-Source User Group Program](https://teamup.com/event/show/id/QWu1vaEsquRZcftUW7WZHgTXWpmwq9) [Agenda](https://chaoss.community/chaosscon-2026-eu/agenda/)
 - [FOSDEM](https://fosdem.org/2026/) - Brussels, Belgium - January 31 & February 1
@@ -53,7 +53,7 @@
 
 _Come say hello if you're at one of them!_
 
-### Events I was at (2025)
+### Events (2025)
 - [Archive on my travel page](https://krisfreedain.com/travel/)
 
 <!--
