@@ -38,6 +38,8 @@
   - [Closing Keynote](https://sched.co/2Givx)
 - [DEVOXX France 2026](https://www.devoxx.fr/en/) - Paris, France - April 22-24
   - [Meet the OpenSearch Project Community - Rencontre de la communauté OpenSearch](https://m.devoxx.com/events/devoxxfr2026/talks/152201/meet-the-opensearch-project-community---rencontre-de-la-communaut%C3%A9-opensearch)
+- **[Berlin User Group](https://www.meetup.com/opensearch-project-berlin/events/314754091/)** - Berlin, Germany - June 5
+  - Meet the community & learn about contributing
 - **[Berlin Buzzwords](https://2026.berlinbuzzwords.de/)** - Berlin, Germany - June 7-9
   - [OpenSearch Software Foundation: 1 Year of Open Governance](https://2026.berlinbuzzwords.de/session/opensearch-software-foundation-1-year-of-open-governance/)
   - Running the OpenSearch Project sponsor booth
