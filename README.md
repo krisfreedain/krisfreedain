@@ -51,6 +51,10 @@
 - [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress) - Berlin, Germany - July 8-10
 - **[OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose, CA - September 22-24**
   - Running the [Unconference](https://events.linuxfoundation.org/opensearchcon-north-america/program/unconference/) again. See you there!
+- [Observability Summit Europe](https://events.linuxfoundation.org/observability-summit-europe/) - Prague, Czechia - October 5
+  - OpenSearch table
+- [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe) - Prague, Czechia - October 7-9
+  - OpenSearch booth
 - [Community Over Code](https://communityovercode.org/) - Glasgow, Scotland - October 11-15
   - Beyond Pull Requests How Non-Coders Quietly Power Open Source
   - Planning an event? Learn how chaos can drive engagement
