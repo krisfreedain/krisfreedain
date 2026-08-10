@@ -53,6 +53,7 @@
   - Running the [Unconference](https://events.linuxfoundation.org/opensearchcon-north-america/program/unconference/) again. See you there!
 - [Observability Summit Europe](https://events.linuxfoundation.org/observability-summit-europe/) - Prague, Czechia - October 5
   - OpenSearch table
+- [The Linux Foundation Member European Forum 2026](https://events.linuxfoundation.org/lf-member-european-forum/)
 - [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe) - Prague, Czechia - October 7-9
   - OpenSearch booth
 - [Community Over Code](https://communityovercode.org/) - Glasgow, Scotland - October 11-15
