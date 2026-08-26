@@ -52,6 +52,7 @@
 - **[OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose, CA - September 22-24**
   - Running the [Unconference](https://events.linuxfoundation.org/opensearchcon-north-america/program/unconference/) again. See you there!
   - Moderator [Ask the Experts: Maintainer Panel](https://events.linuxfoundation.org/opensearchcon-north-america/program/schedule/?id=1304176)
+  - [Keynote: Closing Remarks](https://events.linuxfoundation.org/opensearchcon-north-america/program/schedule/?id=1253753)
 - [Observability Summit Europe](https://events.linuxfoundation.org/observability-summit-europe/) - Prague, Czechia - October 5
   - OpenSearch table
 - [The Linux Foundation Member European Forum 2026](https://events.linuxfoundation.org/lf-member-european-forum/)
