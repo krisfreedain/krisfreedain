@@ -61,6 +61,8 @@
 - [Community Over Code](https://communityovercode.org/) - Glasgow, Scotland - October 11-15
   - Beyond Pull Requests How Non-Coders Quietly Power Open Source
   - Planning an event? Learn how chaos can drive engagement
+- [Tech Shot Paris 2026](https://www.techshowparis.fr/en/) - Paris, France - November 18-19
+  - [Keynote DevOps section - talk name is WIP](https://www.techshowparis.fr/en/2026-programme/session-propos%C3%A9e-par-aws?&sortby=Community_Sponsored%20desc%2Ccustomfield_213148%20asc&searchTerm=Kris%20Freedain&searchgroup=libraryentry-2026-programme)
 
 _Come say hello if you're at one of them!_
 
