@@ -49,16 +49,16 @@
 - [DevConf.CZ](https://www.devconf.info/cz/) - Brno, Czech Republic - June 18-19
   - [Beyond Pull Requests: How Non-Code Contributions Scale Open Source Projects](https://www.devconf.info/cz/schedule/#session/J97B77/)
 - [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress) - Berlin, Germany - July 8-10
-- **[OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose, CA - September 22-24**
+- [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose, CA - September 22-24
   - Running the [Unconference](https://events.linuxfoundation.org/opensearchcon-north-america/program/unconference/) again. See you there!
   - Moderator [Ask the Experts: Maintainer Panel](https://events.linuxfoundation.org/opensearchcon-north-america/program/schedule/?id=1304176)
   - [Keynote: Closing Remarks](https://events.linuxfoundation.org/opensearchcon-north-america/program/schedule/?id=1253753)
-- [Observability Summit Europe](https://events.linuxfoundation.org/observability-summit-europe/) - Prague, Czechia - October 5
+- **[Observability Summit Europe](https://events.linuxfoundation.org/observability-summit-europe/) - Prague, Czechia - October 5**
   - OpenSearch table
-- [The Linux Foundation Member European Forum 2026](https://events.linuxfoundation.org/lf-member-european-forum/)
-- [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe) - Prague, Czechia - October 7-9
+- **[The Linux Foundation Member European Forum 2026](https://events.linuxfoundation.org/lf-member-european-forum/) - Prague, Czechia - October 6**
+- **[Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe) - Prague, Czechia - October 7-9**
   - OpenSearch booth
-- [Community Over Code](https://communityovercode.org/) - Glasgow, Scotland - October 11-15
+- **[Community Over Code](https://communityovercode.org/) - Glasgow, Scotland - October 11-15**
   - Beyond Pull Requests How Non-Coders Quietly Power Open Source
   - Planning an event? Learn how chaos can drive engagement
 - [Tech Show Paris 2026](https://www.techshowparis.fr/en/) - Paris, France - November 18-19
