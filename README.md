@@ -59,8 +59,8 @@
 - **[Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe) - Prague, Czechia - October 7-9**
   - OpenSearch booth
 - **[Community Over Code](https://communityovercode.org/) - Glasgow, Scotland - October 11-15**
-  - Beyond Pull Requests How Non-Coders Quietly Power Open Source
-  - Planning an event? Learn how chaos can drive engagement
+  - [Beyond Pull Requests How Non-Coders Quietly Power Open Source](https://web.cvent.com/event/ac71ce47-2b5f-424c-abfe-5b48255315fb/summary?session=9ec430ea-14d5-4694-aa24-53b8c572a909&shareLink=true) - October 14 10:20-11:00GMT
+  - [Planning an event? Learn how chaos can drive engagement](https://web.cvent.com/event/ac71ce47-2b5f-424c-abfe-5b48255315fb/summary?session=d90c8a60-9f07-41f8-9560-cdd32affcb02&shareLink=true) - October 14 11:10-11:50GMT
 - [Tech Show Paris 2026](https://www.techshowparis.fr/en/) - Paris, France - November 18-19
   - [Keynote DevOps section - talk name is WIP](https://www.techshowparis.fr/en/2026-programme/session-propos%C3%A9e-par-aws?&sortby=Community_Sponsored%20desc%2Ccustomfield_213148%20asc&searchTerm=Kris%20Freedain&searchgroup=libraryentry-2026-programme)
 - [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo, Japan - December 7-9
