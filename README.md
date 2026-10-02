@@ -58,7 +58,7 @@
 - **[The Linux Foundation Member European Forum 2026](https://events.linuxfoundation.org/lf-member-european-forum/) - Prague, Czechia - October 6**
 - **[Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe) - Prague, Czechia - October 7-9**
   - OpenSearch booth
-- **[Community Over Code](https://communityovercode.org/) - Glasgow, Scotland - October 11-15**
+- **[Community Over Code](https://communityovercode.org/) - Glasgow, Scotland - October 11-14**
   - [Beyond Pull Requests How Non-Coders Quietly Power Open Source](https://web.cvent.com/event/ac71ce47-2b5f-424c-abfe-5b48255315fb/summary?session=9ec430ea-14d5-4694-aa24-53b8c572a909&shareLink=true) - October 14 10:20-11:00GMT
   - [Planning an event? Learn how chaos can drive engagement](https://web.cvent.com/event/ac71ce47-2b5f-424c-abfe-5b48255315fb/summary?session=d90c8a60-9f07-41f8-9560-cdd32affcb02&shareLink=true) - October 14 11:10-11:50GMT
 - [Tech Show Paris 2026](https://www.techshowparis.fr/en/) - Paris, France - November 18-19
