@@ -12,6 +12,7 @@
 
 - Senior Community Manager for the [OpenSearch](https://opensearch.org/) Project, [OpenSearch Software Foundation](https://foundation.opensearch.org/), & [technical steering committee](https://github.com/opensearch-project/technical-steering)
 - OpenSearch Software Foundation Ambassador - [page](https://opensearch.org/ambassadors/) - [announcement](https://opensearch.org/blog/introducing-opensearch-ambassador-program/)
+- Member of the OpenSearch Project [Technical Steering Committee](https://github.com/opensearch-project/technical-steering/blob/main/MEMBERS.md) [announcement](https://opensearch.org/blog/driving-open-governance-what-the-technical-steering-committee-accomplished-this-year/)
 - Member of the OpenSearch Software Foundation Marketing Committee
 - Member of the OpenSearch Project Leadership Committee (Dec 2023 - Sep 2024) - [blog post](https://opensearch.org/blog/announcing-opensearch-project-leadership-committee/) - [repo](https://github.com/opensearch-project/community/tree/main/leadership-committee)
 - Come join the [OpenSearch community](https://opensearch.org/community/)
