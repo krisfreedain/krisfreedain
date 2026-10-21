@@ -7,7 +7,6 @@
 <a href="https://instagram.com/krisf"><img height="40" src="/images/icons8-instagram-32.png"></a>&nbsp;&nbsp;
 <a href="http://krisfreedain.tumblr.com/"><img height="40" src="/images/icons8-tumblr-32.png"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/c/KrisFreedain"><img height="40" src="/images/icons8-youtube-32.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/KrisFreedain"><img height="40" src="/images/icons8-twitter-32.png"></a>&nbsp;&nbsp;
 <a href="https://en.pronouns.page/he"><img height="40" src="/images/icons8-he-32.png"></a>&nbsp;&nbsp;
 
 - Senior Community Manager for the [OpenSearch](https://opensearch.org/) Project, [OpenSearch Software Foundation](https://foundation.opensearch.org/), & [technical steering committee](https://github.com/opensearch-project/technical-steering)
@@ -89,4 +88,6 @@ Here are some ideas to get you started:
 - :bird: Reach out on Twitter [@KrisFreedain](https://twitter.com/KrisFreedain)
 
 - ⚡ Fun fact: ...
+
+<a href="https://twitter.com/KrisFreedain"><img height="40" src="/images/icons8-twitter-32.png"></a>&nbsp;&nbsp;
 -->
