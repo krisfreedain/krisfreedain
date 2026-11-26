@@ -67,8 +67,6 @@
   - [Keynote DevOps section - From Code to Community - How Vendor Neutrality and Open Governance Scale Software Platforms](https://www.techshowparis.fr/en/2026-programme/session-propos%C3%A9e-par-aws?&sortby=Community_Sponsored%20desc%2Ccustomfield_213148%20asc&searchTerm=Kris%20Freedain&searchgroup=libraryentry-2026-programme) - November 19 1:25-1:50GMT+1
 - [OpenSearch Paris User Group](https://www.meetup.com/opensearch-project-paris/events/314798760/) - Paris, France - November 19
   - Build OpenSearch With Us
-- [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo, Japan - December 7-9
-  - OpenSearch booth
 
 _Come say hello if you're at one of them!_
 
